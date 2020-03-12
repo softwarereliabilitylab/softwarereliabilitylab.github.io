@@ -8,7 +8,7 @@ permalink: /members/
 
 * 本田 澄 (Kiyoshi Honda)
 
-## 学部生 / Ubergraduate Students
+## 学部生 / Undergraduate Students
 
 * 学部4年生 / Bachelor 4th year
 
