@@ -6,7 +6,7 @@ permalink: /members/
 
 ## 講師 / Assistant Professor
 
-* 本田 澄 (Kiyoshi Honda)
+* [本田 澄 (Kiyoshi Honda)](http://research-db.oit.ac.jp/html/200000097_ja.html)
 
 ## 学部生 / Undergraduate Students
 
