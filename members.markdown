@@ -11,8 +11,6 @@ permalink: /members/
 ## 学部生 / Undergraduate Students
 
 * 学部4年生 / Bachelor 4th year
-
-* 学部3年生 / Bachelor 3rd year
   * 浅浦 啓二郎
   * 今堀 拓海
   * 神山 飛悠河
@@ -21,3 +19,5 @@ permalink: /members/
   * 塩谷 陸斗
   * 細谷 健司
   * 宮坂 風雅
+
+* 学部3年生 / Bachelor 3rd year
