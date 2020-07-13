@@ -12,6 +12,7 @@ permalink: /members/
 
 * 学部4年生 / Bachelor 4th year
   * 浅浦 啓二郎
+  * 足立　純春
   * 今堀 拓海
   * 神山 飛悠河
   * 西尾 達哉
