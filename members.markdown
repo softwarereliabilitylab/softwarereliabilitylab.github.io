@@ -24,7 +24,7 @@ permalink: /members/
 
 ## 卒業生 / Alumnus
 
-* 2020
+* 2021 Mar.
   * 浅浦 啓二郎
   * 足立 純春
   * 今堀 拓海
