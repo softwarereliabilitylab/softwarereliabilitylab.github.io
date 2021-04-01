@@ -27,6 +27,7 @@ permalink: /links/
 * 2019
   * [ソフトウェア工学産学協創ワークショップ＠湯河原](https://saicollo.connpass.com/event/147782/)
   * [ソフトウェア開発における産学協創フォーラム](https://saicollo.connpass.com/event/131725/)
+  * [COMPSAC 2019: Data Driven Intelligence for a Smarter World (SISA: Smart IoT Systems & Applications)](https://ieeecompsac.computer.org/2019/iot/)
   * [第5回 実践的IT教育シンポジウム rePiT2019 in 愛媛](https://sites.google.com/site/sigrepit/repit2019)
 * 2018
   * [25th Asia-Pacific Software Engineering Conference (APSEC 2018)](http://www.apsec2018.org/)
