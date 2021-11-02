@@ -20,6 +20,13 @@ permalink: /kitayamasai/
     Sorry, your browser doesn't support embedded videos.
 </video>
 
+### 数揃え麻雀
+[説明資料](/assets/pdfs/kitayamasai2021Python.pdf)
+<video controls hight="480">
+    <source src="/assets/videos/kitayamasai2021Python.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
 ## 2020年度
 2020年度に作成したゲームです。
 ### Speed Fighters
