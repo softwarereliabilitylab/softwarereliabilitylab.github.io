@@ -4,8 +4,7 @@ title: 北山祭
 permalink: /kitayamasai/
 ---
 
-# 北山祭
-## 2021
+## 2021年度
 2021年度のOh!ITカーニバルで紹介したゲームの動画です。
 ### SPACE ATTACK
 [説明資料](/assets/pdfs/kitayamasai2021Unity.pdf)
@@ -20,3 +19,9 @@ permalink: /kitayamasai/
     <source src="/assets/videos/kitayamasai2021SmartPhone.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
+
+## 2020年度
+2020年度に作成したゲームです。
+### Speed Fighters
+  * [ゲーム](https://softwarereliabilitylab.github.io/Speed-Fighters/)
+  * [説明資料](/assets/pdfs/kitayamasai2020SpeedFighters.pdf)
