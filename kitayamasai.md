@@ -12,3 +12,9 @@ permalink: /kitayamasai/
     <source src="/assets/videos/kitayamasai2021Unity.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
+
+### スマホゲーム
+<video controls hight="480">
+    <source src="/assets/videos/kitayamasai2021SmartPhone.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
