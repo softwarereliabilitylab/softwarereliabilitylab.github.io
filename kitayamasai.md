@@ -3,6 +3,21 @@ layout: page
 title: 北山祭
 permalink: /kitayamasai/
 ---
+## 2022年度
+2022年度のOh!ITカーニバルで紹介したゲームの動画です。
+### BallRun
+<video controls width="480">
+    <source src="/assets/videos/kitayamasai2022BallRun.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+### OIT-Kart
+[説明資料](/assets/pdfs/kitayamasai2022OIT-Kart.pdf)
+
+<img src="/assets/images/kitayamasai2022OIT-Kart.gif" width="480">
+
+### BUMMER
+[ゲーム](https://izuminaoto.github.io/BUMMER/)
 
 ## 2021年度
 2021年度のOh!ITカーニバルで紹介したゲームの動画です。
