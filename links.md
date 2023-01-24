@@ -15,8 +15,17 @@ permalink: /links/
 * [高信頼な機械学習応用システムによる価値創造 QAML](https://qaml.jp/)
 
 ## 学会 / Conference
-
+* 2023
+  * [第9回 実践的IT教育シンポジウム rePiT2023](https://sites.google.com/site/sigrepit/repit2023)
+* 2022
+  * [第29回ソフトウェア工学の基礎ワークショップ （FOSE2022）in 松江しんじ湖温泉](https://fose.jssst.or.jp/fose2022/)
+  * [29th Asia-Pacific Software Engineering Conference (APSEC 2022)](https://conf.researchr.org/home/apsec-2022)
+  * [The 34th International Conference on Software Engineering & Knowledge Engineering (SEKE 2022)](https://ksiresearch.org/seke/seke22.html)
+  * [ソフトウェアエンジニアリングシンポジウム2022 IPSJ/SIGSE Software Engineering Symposium (SES2022)](https://ses.sigse.jp/2022/)
+  * [第8回 実践的IT教育シンポジウム rePiT2022](https://sites.google.com/site/sigrepit/repit2022)
 * 2021
+  * [第28回ソフトウェア工学の基礎ワークショップ （FOSE2021）in 磐梯熱海温泉 （ハイブリッド開催）](https://fose.jssst.or.jp/fose2021/)
+  * [ソフトウェアエンジニアリングシンポジウム2021 IPSJ/SIGSE Software Engineering Symposium (SES2021)](https://ses.sigse.jp/2021/)
   * [MODELS 2021: ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (MODELS)](http://www.modelsconference.org/)
   * [COVID-19時代の産学連携およびソフトウェア開発（オンライン開催）](https://saicollo.connpass.com/event/200641/)
   * [第7回 実践的IT教育シンポジウム rePiT2021](https://sites.google.com/site/sigrepit/repit2021)
