@@ -9,8 +9,19 @@ permalink: /members/
 * [本田 澄 (Kiyoshi Honda)](http://research-db.oit.ac.jp/html/200000097_ja.html)
 
 ## 学部生 / Undergraduate Students
-
 * 学部4年生 / Bachelor 4th year
+  * 和泉 直翔
+  * 大内 優
+  * 奥野 真伍
+  * 北野 遥
+  * 小松 駿介
+  * 西村 渉
+  * 花崎 七海
+  * 松田 望
+* 学部3年生 / Bachelor 3rd year
+
+## 卒業生 / Alumnus
+* 2023 Mar.
   * 安積 汰盛
   * 里中 俊介
   * 西村 滋幸
@@ -20,18 +31,6 @@ permalink: /members/
   * 松田 宗一郎
   * 吉田 晃輔
   * 吉永 圭佑
-* 学部3年生 / Bachelor 3rd year
-  * 和泉 直翔
-  * 大内 優
-  * 奥野 真伍
-  * 北野 遥
-  * 小松 駿介
-  * 西村 渉
-  * 花崎 七海
-  * 松田 望
-
-## 卒業生 / Alumnus
-
 * 2022 Mar.
   * 大八木 勇太朗
   * 景井 玲良
