@@ -3,6 +3,34 @@ layout: page
 title: 北山祭
 permalink: /kitayamasai/
 ---
+## 2023年度
+2023年度のOh!ITカーニバルで紹介したゲームの動画です。
+### Foodelibery
+[ゲーム]()
+### Ice Warrior
+[説明資料](/assets/pdfs/kitayamasai2023IceWarrior.pdf)
+
+<video controls width="480">
+    <source src="/assets/videos/kitayamasai2023IceWarrior.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+### Kitayama Shooting
+[説明資料](/assets/pdfs/kitayamasai2023KitayamaShooting.pdf)
+
+<video controls width="480">
+    <source src="/assets/videos/kitayamasai2023KitayamaShooting.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+### Horror Game
+[説明資料](/assets/pdfs/kitayamasai20203HorrorGame.pdf)
+
+<video controls width="480">
+    <source src="/assets/videos/kitayamasai20203HorrorGame.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
 ## 2022年度
 2022年度のOh!ITカーニバルで紹介したゲームの動画です。
 ### BallRun
