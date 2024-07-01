@@ -15,7 +15,17 @@ permalink: /links/
 * [高信頼な機械学習応用システムによる価値創造 QAML](https://qaml.jp/)
 
 ## 学会 / Conference
+* 2024
+  * [35th IEEE International Symposium on Software Reliability Engineering (ISSRE 2024)](https://issre.github.io/2024/)
+  * [日本ソフトウェア科学会第41回大会](https://jssst2024.wordpress.com/)
+  * [第10回 実践的IT教育シンポジウム rePiT2024](https://sites.google.com/site/sigrepit/repit2024)
 * 2023
+  * [第30回ソフトウェア工学の基礎ワークショップ （FOSE2023）](https://fose.jssst.or.jp/fose2023/)
+  * [34th IEEE International Symposium on Software Reliability Engineering (ISSRE 2023)](https://issre.github.io/2023/)
+  * [日本ソフトウェア科学会第40回大会](https://jssst2023.wordpress.com/)
+  * [35th IEEE International Conference on Software Engineering Education and Training (CSEE&T 2023)](https://conf.researchr.org/home/cseet-2023)
+  * [The 34th International Conference on Software Engineering & Knowledge Engineering (SEKE 2023)](https://ksiresearch.org/seke/seke23.html)
+  * [ソフトウェアエンジニアリングシンポジウム2023 IPSJ/SIGSE Software Engineering Symposium (SES2023)](https://ses.sigse.jp/202e/)
   * [第9回 実践的IT教育シンポジウム rePiT2023](https://sites.google.com/site/sigrepit/repit2023)
 * 2022
   * [第29回ソフトウェア工学の基礎ワークショップ （FOSE2022）in 松江しんじ湖温泉](https://fose.jssst.or.jp/fose2022/)
