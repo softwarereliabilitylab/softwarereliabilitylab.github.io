@@ -12,3 +12,7 @@ permalink: /about/
 * たくさんの開発データを分析することで新しい知見を得る
 
 [研究紹介(学内限定)](http://lss.oit.ac.jp/~t2019090/assets/poster.pdf)
+
+# 2025年度情報ゼミナール配属用
+
+<img src="/assets/images/Resaerch2025-mini.gif">
