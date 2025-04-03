@@ -2,7 +2,7 @@ name: Build and Deploy Jekyll Site
 on:
   push:
     branches:
-      - main  # ← GitHub Pages のデプロイ対象ブランチ
+      - master  # ← GitHub Pages のデプロイ対象ブランチ
 permissions:
   contents: read
   pages: write
