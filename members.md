@@ -8,20 +8,12 @@ permalink: /members/
 
 * [本田 澄 (Kiyoshi Honda)](http://research-db.oit.ac.jp/html/200000097_ja.html)
 
+## 大学院生 / Gergraduate Students
+* 修士1年生 / Master 1st year
+  * 土橋 青空
+
 ## 学部生 / Undergraduate Students
 * 学部4年生 / Bachelor 4th year
-  * 市後 昌義
-  * 井上 創太
-  * 強力 雅司
-  * 住江　駆琉
-  * 茶谷 隼翔
-  * 土橋 青空
-  * 中埜 瞬介
-  * 原田 康平
-  * 宮田 真次
-  * 森田 圭登
-  * 山本 直弥
-* 学部3年生 / Bachelor 3rd year
   * 足立 空蒼
   * 井上 隼兵
   * 大河原 廉
@@ -31,9 +23,21 @@ permalink: /members/
   * 杉本 蓮穏
   * 藤澤 隼人
   * 山本 太陽
-
-
+* 学部3年生 / Bachelor 3rd year
+  * TBD
+  
 ## 卒業生 / Alumnus
+* 2025 Mar.
+  * 市後 昌義
+  * 井上 創太
+  * 強力 雅司
+  * 住江　駆琉
+  * 茶谷 隼翔
+  * 中埜 瞬介
+  * 原田 康平
+  * 宮田 真次
+  * 森田 圭登
+  * 山本 直弥
 * 2024 Mar.
   * 和泉 直翔
   * 大内 優
